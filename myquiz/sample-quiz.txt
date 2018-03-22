@@ -1,0 +1,1 @@
+[{'question': 'Name the current Prime Minister of India?', 'options': ['Narendre Modi', 'APJ Abdul Kalam', 'Sonia Gandhi'], 'answer': 1}, {'question': 'Who first landed on moon?', 'options': ['Neil Armstrong', 'Charles Babbage', 'Galilio Galilei'], 'answer': 1}]
